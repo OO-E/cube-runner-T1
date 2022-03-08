@@ -1,3 +1,3 @@
 # cube-runner
 Cube Runner is a single level mobile game that made with Unity.
-![movie_002](https://user-images.githubusercontent.com/100294574/157314906-c290157c-4025-4424-bfd5-d5e887b95e35.gif)
+![movie_010](https://user-images.githubusercontent.com/100294574/157316404-f4d07add-e5a4-4c30-b641-2a0f6cb0a89d.gif)
